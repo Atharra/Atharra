@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharra
-- 👀 I’m interested in C++,Unreal,Java & MMORPG games 
-- 🌱 I’m currently learning C++, Java, and Unreal 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in anything to do with Vintage Story
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Vintage Story Server Projects and Mods
 - 📫 How to reach me leonardhulsey69@gmail.com
 
 <!---
